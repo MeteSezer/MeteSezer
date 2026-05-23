@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d001a&height=220&section=header&text=Mete&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Architect+%7C+Agent+Engineer+%7C+Founder+%40+Hexonithy+Studios&descAlignY=58&descSize=15&descColor=9b5de5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d001a&height=220&section=header&text=Met1yan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Architect+%7C+Agent+Engineer+%7C+Founder+%40+Hexonithy+Studios&descAlignY=58&descSize=15&descColor=9b5de5" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=9B5DE5&center=true&vCenter=true&width=580&lines=Autonomous+AI+Systems;Multi-Agent+Orchestration+%26+MCP;LLM+Fine-Tuning+on+Local+Hardware;Vibe+Coding+%E2%80%94+AI+is+my+co-engineer)](https://git.io/typing-svg)
 
