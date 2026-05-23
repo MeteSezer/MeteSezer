@@ -99,11 +99,7 @@ motto     : "If the result is the same, it doesn't matter what you used."
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LINKEDIN_LINKIN)
-[![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](TWITTER_LINKIN)
-[![Hexonithy](https://img.shields.io/badge/Hexonithy_Studios-9B5DE5?style=flat-square)](HEXONITHY_SITE)
-
+Denemekten asla zarar gelmez.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0533,100:0d0d0d&height=100&section=footer"/>
 
 </div>
