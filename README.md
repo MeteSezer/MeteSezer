@@ -94,20 +94,6 @@ motto     : "If the result is the same, it doesn't matter what you used."
 
 </div>
 
----
-
-## 🗺 Roadmap
-
-```
-[✓] OpenClaw          — 7/24 otonom ajan (Ubuntu VDS)
-[✓] MCP entegrasyonu  — filesystem · search · shell · github
-[✓] Fine-tuning       — QLoRA pipeline, RTX 3060 Ti
-[✓] Vibe Coding       — AI-first geliştirme pratiği
-[ ] HexonithyAI v1    — çoklu ajan orkestrasyonu
-[ ] CyberAgent v1     — otonom güvenlik ajanı
-[ ] MCP Hub           — özel araç sunucusu kütüphanesi
-[ ] HuggingFace       — ilk açık kaynak LLM adapter
-```
 
 ---
 
