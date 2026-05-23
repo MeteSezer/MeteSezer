@@ -87,8 +87,8 @@ motto     : "If the result is the same, it doesn't matter what you used."
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=9b5de5&icon_color=9b5de5)](https://github.com/GITHUB_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=9b5de5)](https://github.com/GITHUB_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeteSezer&show_icons=true&theme=github_dark&hide_border=true&title_color=9b5de5&icon_color=9b5de5)](https://github.com/GITHUB_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeteSezer&layout=compact&theme=github_dark&hide_border=true&title_color=9b5de5)](https://github.com/GITHUB_USERNAME)
 
 [![Streak](https://nirzak-streak-stats.vercel.app/?user=GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&ring=9b5de5&fire=9b5de5&currStreakLabel=9b5de5)](https://github.com/GITHUB_USERNAME)
 
